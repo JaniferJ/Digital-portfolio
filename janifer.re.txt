@@ -1,0 +1,11 @@
+Personal Details 
+
+Name          : J.Janifer
+Date of Birth : 22/09/2005
+Gender        : Female
+
+
+Education
+
+Department    : BCA
+University    : Bharathidasan University
